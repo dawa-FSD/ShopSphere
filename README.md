@@ -12,7 +12,7 @@ ShopSphere allows users to browse products, search and filter products, view pro
 |---|---|
 | 🚀 Live Demo | [ShopSphere](https://shop-sphere-o1awqpurc-dawa-s-projects1.vercel.app) |
 | 💻 GitHub Repository | [ShopSphere GitHub](https://github.com/dawa-FSD/ShopSphere) |
-| 🎥 Demo Video | [Loom Demo](https://www.loom.com/share/599c9a2215a4418c9aad0d73dd911b6b) |
+| 🎥 Demo Video |[Watch the ShopSphere Demo Video](https://www.loom.com/share/f71e90ab57f04b9e9086fb0ff9c461f9)) |
 
 ---
 
